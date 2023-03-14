@@ -27,7 +27,6 @@ void GetArray3D(int[,,] array3D)
           j = 0;
           number = temp[i];
         }
-          number = temp[i];
       }
     }
   }
